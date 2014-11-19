@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android" >
+    <PreferenceCategory android:title="@string/title_calendar_sync" >
+        <CheckBoxPreference
+            android:defaultValue="false"
+            android:key="@string/settings_key_add_to_calendar"
+            android:summary="@string/summary_add_to_calendar"
+            android:title="@string/title_add_to_calendar" />
+
+        <ListPreference
+            android:defaultValue="0"
+            android:dependency="@string/settings_key_add_to_calendar"
+            android:key="@string/key_calendar"
+            android:summary="@string/summary_calendar_to_sync"
+            android:title="@string/title_calendar_to_sync" />
+    </PreferenceCategory>
+
+</PreferenceScreen>

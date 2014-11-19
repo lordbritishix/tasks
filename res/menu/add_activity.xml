@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+        <item 
+            android:id="@+id/action_email" 
+            android:icon="@android:drawable/ic_menu_send" 
+            android:title="@string/action_email" 
+            android:showAsAction="ifRoom|withText" 
+            android:visible="false"/><item 
+	        android:id="@+id/action_save"
+	        android:title="@string/action_save"
+	        android:icon="@android:drawable/ic_menu_save"
+	        android:showAsAction="ifRoom"/>
+</menu>

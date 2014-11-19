@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Do It!</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_export">Export to file</string>
+    <string name="action_add">Add task</string>
+    <string name="action_email">Email task</string>
+    <string name="action_save">Save</string>
+    <string name="action_cancel">Cancel</string>
+    <string name="action_pending">View pending tasks</string>
+    <string name="action_completed">View completed</string>
+    <string name="action_voice">Add task using voice command</string>
+    <string name="action_camera">Add task using the camera</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="tomorrow">Tomorrow</string>
+    <string name="overdue">Overdue</string>
+    <string name="done">Done</string>
+    <string name="search">Search</string>
+    <string name="voice_not_supported">Voice recognition is not supported on this device</string>
+    <string name="title_activity_view_task">View Task</string>
+    <string name="title_activity_settings">Settings</string>
+    <string name="task_title">Title</string>
+    <string name="task_description">Description</string>
+    <string name="task_status">Status</string>
+    <string name="task_due_date">Due Date</string>
+    <string name="task_category">Category</string>
+    <string name="task_priority">Priority</string>
+    <string name="action_edit">Edit</string>
+    <string name="invalid_due_date">Due date cannot be earlier than the date today</string>
+    <string name="invalid_task">Please enter a title for the task</string>
+    <string name="no_task">No task found&#8230;</string>
+    <string name="settings_key_show_completed">key_show_completed</string>
+    <string name="settings_key_add_to_calendar">key_add_to_calendar</string>
+    <string name="settings_key_email_description">key_email_description</string>
+    <string name="title_activity_edit_task">Edit Task</string>
+    <string name="title_activity_add_task">Add Task</string>
+    <string name="title_add_to_calendar">Add to calendar</string>
+    <string name="summary_add_to_calendar">Set event in the Calendar 10 minutes before due date</string>
+    <string name="title_show_completed_task">Task filter</string>
+    <string name="summary_show_completed_task">Show only completed tasks</string>
+    <string name="title_email_notification">Email notification</string>
+    <string name="summary_email_notification">Enable sending of tasks via email</string>
+    <string name="sync_to_calendar">Sync to calendar</string>
+    <string name="key_calendar">key_calendar</string>
+    <string name="title_calendar_to_sync">Calendar</string>
+    <string name="summary_calendar_to_sync">Calendar where new tasks will be synced</string>
+    <string name="title_calendar_sync">Calendar Sync</string>
+    <string name="please_wait">Please wait</string>
+    <string name="exporting_tasks">Exporting tasks to the Download folder</string>
+    <string name="exporting_problem">There was a problem in exporting tasks</string>
+    <string name="exporting_success">%s created at the Download folder</string>
+
+    <string-array name="empty">
+        <item>Empty</item>
+    </string-array>
+
+    <string name="undo">Undo</string>
+    <string name="item_deleted">Tap on the button to undo</string>
+    <string name="title_activity_image_preview">ImagePreview</string>
+
+</resources>
