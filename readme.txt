@@ -1,3 +1,6 @@
+This is a simple task manager that I published on the Android store:
+https://play.google.com/store/apps/details?id=com.simpletaskmanager
+
 ------------------------------------------------------------------------------------------------
 Icons downloaded from https://www.iconfinder.com/search/?q=iconset%3Adeveloperkit
 https://www.iconfinder.com/iconsets/iconic-1
